@@ -1,7 +1,7 @@
 ## 💻 HackerRank Solutions
 
 Welcome to my collection of programming solutions from [HackerRank](https://www.hackerrank.com/)!  
-This repository contains clean and well-organized code written in various languages like C, C++, Python, and Java.
+This repository contains clean and well-organized code written in various languages like C, Python, and Java.
 
 
 ## 📁 Folder Structure
