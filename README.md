@@ -5,8 +5,11 @@ This repository contains clean and well-organized code written in various langua
 
 
 ## 📁 Folder Structure
+
 📂 C → Solutions written in C language
+
 📂 Python → Python-based problem solving
+
 📂 Java → Java practice problems
 
 ---
